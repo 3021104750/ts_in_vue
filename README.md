@@ -1,24 +1,55 @@
 # ts_in_vue
 
-## Project setup
+### 摘要
+
 ```
-npm install
+用于练习Vue里使用TypeScript去编写的一个备忘录创建事项
 ```
 
-### Compiles and hot-reloads for development
+### 描述
+
 ```
-npm run serve
+1. 使用脚手架勾选TypeScript并且搭件Vue (2.0)
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 包含功能
 
-### Lints and fixes files
-```
-npm run lint
-```
+* 添加想要记录的事项
+* 可选择添加事项的分类（生活、工作）
+* 添加和移除事项
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 使用技术
+
+* 语言
+
+  > Html
+  >
+  > Css (Less)
+  >
+  > TypeScript
+  >
+  > JavaScript
+
+* 初始化
+
+  > 无
+
+* 适配方案
+
+  > 无
+
+* 框架
+
+  > Vue (2.0)
+
+* 打包工具
+
+  > Webpack
+
+* 组件库
+
+  > Element-UI
+
+* 动画库
+
+  > 无
